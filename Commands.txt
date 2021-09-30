@@ -1,4 +1,4 @@
-git --verin
+git --version
 git init
 git status
 nano .gitignore
